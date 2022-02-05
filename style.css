@@ -337,12 +337,12 @@
 }
 
 .package {
-  left: 10px;
   font-size: 25px;
   font-weight: bolder;
   color: #838583;
   cursor: pointer;
   transition: all ease 0.7s;
+  margin-left: 10px;
 }
 
 .poc {
